@@ -1,6 +1,6 @@
 # ConversorNumRomanos
 
-Programa que convierte texto a código morse y viceversa
+Programa que convierte numeros enteros a numeros romanos
 
 Autor: Raul Enrique Dzidz Ku
 
